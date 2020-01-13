@@ -1,0 +1,103 @@
+
+body {
+	background-image: url;
+	background-repeat: no-repeat;
+	text-align: center;
+	background-image:url(images/fond_site5.jpg);
+}
+
+
+h1 {
+
+	text-align: center;
+}
+
+#contenu {
+	color: #220a0a;
+	background: radial-gradient(rgb(255, 255, 255), rgb(255, 255, 255));
+	border-left-width: 5px;
+  	border-left-style: solid;
+  	border-left-color: #C04;
+  	border-right-width: 5px;
+ 	 border-right-style: solid;
+  	border-right-color: #C04;
+}
+
+#contenu p {
+
+	font-family: serif;
+}
+
+#contenu h2 {
+
+	font-family: serif;
+}
+
+.card {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav {
+	width: 100%;
+	z-index: 1030;
+	background-color: #C04;
+	
+}
+
+.carousel img {
+	width: auto;
+}
+
+#headproduct {
+
+height: 30px ;
+
+}
+
+footer .src {
+	max-width: 10%;
+	height: auto;
+}
+
+
+
+footer {
+
+	padding: 5px;
+	background-color: rgb(255, 255, 255);
+	color: black;
+	width: 100%;
+	border-left-width: 5px;
+  	border-left-style: solid;
+  	border-left-color: #C04;
+  	border-right-width: 5px;
+ 	 border-right-style: solid;
+	  border-right-color: #C04;
+	  border-top-color : #C04;
+	  border-top-width: 5%;
+	  border-top-style: solid;
+	
+	   
+	}
+
+	
+	footer h5 {
+
+		text-align: center;
+	}
+	
+	footer p {
+
+		text-align: center;
+	}
+
+	.logo_reseaux  {
+
+		text-align: center;
+
+	}
+	.Formulaire_Inscription {
+
+		background-color: rgb(110, 75, 21);
+	}
